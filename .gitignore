@@ -102,3 +102,19 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+macierzbledow\.txt
+
+macierzbledow\(1,2,3\)\.txt
+
+macierzbledow\(1,2\)\.txt
+
+macierzbledow\(2,3,4\)\.txt
+
+macierzbledow\(2,4\)\.txt
+
+macierzbledow\(all cechy\)\.txt
+
+zad2 \(2\)\.zip
+
+zad2\.zip
